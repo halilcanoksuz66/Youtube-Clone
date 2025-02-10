@@ -1,13 +1,10 @@
-# Youtube Clone
-
-Bu proje, responsive design ile YouTube platformunun temel görünümünü taklit eden bir klondur.
-
 ## 📸 Ekran Görüntüleri
 
-![Ana Sayfa](screenshots/Image1.png)
+![](screenshots/Image1.png)
 
-### Sepet Sayfası
-![Sepet Sayfası](screenshots/Image3.png)
+### Responsive Görünüm
 
-### Sipariş Takip Sayfası
-![Sipariş Takip](screenshots/Image2.png)
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 0;">
+  <img src="screenshots/Image2.png" alt="Responsive 1" style="width: 48%; margin-top: 0;" />
+  <img src="screenshots/Image3.png" alt="Responsive 2" style="width: 48%; margin-top: 0;" />
+</div>
